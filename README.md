@@ -7,18 +7,21 @@ It contains a simple oscillator circuit made up of basic electrical components.
 
 The circuit is called an astable multivibrator and one LED-eye is the inverted output of the other eye.
 
-With two potentiometers and a screwdriver, you can adjust, how long one eye will take, till it gets switched off.
+With two potentiometers and a screwdriver, you can adjust, how long one eye will take till it gets switched off.
 
 
 ## How to assemble
 The PCB contains footprints for two kinds of assembly:
 1. Through Hole Technology
+
    Most of the parts can be put through the pcb, wich makes soldering easier.
    Beginners should take this way of assembly.
+   
 2. Surface Mount Technology
+
    Parts are layed on the surface of the PCB before soldering.
    Parts are smaller and can slip away while soldering. 
-   This is more difficult to solder by hand. Recommended for advances solderers or if you have an reflow oven.
+   This is more difficult to solder by hand. Recommended for advanced solderers or if you have an reflow oven.
 
 ### THT-version
 
