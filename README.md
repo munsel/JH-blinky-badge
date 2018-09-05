@@ -3,7 +3,9 @@
 This is the first verison of a giveaway badge for jugend hackt.
 It contains a simple oscillator circuit made up of basic electrical components.
 
+<p align=center>
 ![circuit](img/circuit.svg)
+</p>
 
 The circuit is called an astable multivibrator and one LED-eye is the inverted output of the other eye.
 
@@ -62,5 +64,16 @@ The PCB contains footprints for two kinds of assembly:
 The gerber design files are located in the 'production_files'-folder. If you don't want to customize the design, you only need to  send this folder to any manufacturer.
 
 ## Parts used
-TODO
+| part | quanitity | vendor |
+| ---- | :-------: | -----: |
+| battery holder | 1 | [reichelt](https://www.reichelt.de/knopfzellenclip-fuer-20-mm-smd-kzh-20smd-p56574.html?&trstct=pol_3)|
+| 47 Ohm resistor | 2 | [reichelt](https://www.reichelt.de/widerstand-kohleschicht-47-ohm-0207-250-mw-5-1-4w-47-p1431.html) |
+| 4700 Ohm resistor| 2 | [reichelt](https://www.reichelt.de/widerstand-kohleschicht-4-7-kohm-0207-250-mw-5-1-4w-4-7k-p1425.html) |
+| SPST style switch | 1 | [reichelt](https://www.reichelt.de/schiebeschalter-1x-um-stehend-print-rm-2-54-ss-esp101-p112178.html)|
+| 500k trim pots | 2 | [reichelt](https://www.reichelt.de/einstellpotentiometer-liegend-500-kohm-9-mm-acp-9-l-500k-p110255.html)|
+| 10µF caps | 2 | [reichelt](https://www.reichelt.de/elko-radial-10-uf-50-v-105-c-low-esr-fr-a-10u-50-p200268.html)| 
+| LEDs | 2 | [reichelt](https://www.reichelt.de/led-5-mm-bedrahtet-rot-4-5-mcd-60-led-5mm-rt-p10233.html?&trstct=pos_0) |
+| NPN Transistor EBC-pinout | 2 | https://www.reichelt.de/bipolartransistor-npn-300v-0-5a-0-625w-to-92-mpsa-42-p13112.html |
+
+The selected Transistor works, but i am not shure, whether it is the best fit.
 
