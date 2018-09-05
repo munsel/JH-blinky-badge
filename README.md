@@ -65,6 +65,7 @@ The gerber design files are located in the 'production_files'-folder. If you don
 
 ## Parts used
 These are the parts used for the THT assembly.
+
 | part | quanitity | vendor |
 | ---- | :-------: | -----: |
 | battery holder | 1 | [reichelt](https://www.reichelt.de/knopfzellenclip-fuer-20-mm-smd-kzh-20smd-p56574.html?&trstct=pol_3)|
