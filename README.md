@@ -64,6 +64,7 @@ The PCB contains footprints for two kinds of assembly:
 The gerber design files are located in the 'production_files'-folder. If you don't want to customize the design, you only need to  send this folder to any manufacturer.
 
 ## Parts used
+These are the parts used for the THT assembly.
 | part | quanitity | vendor |
 | ---- | :-------: | -----: |
 | battery holder | 1 | [reichelt](https://www.reichelt.de/knopfzellenclip-fuer-20-mm-smd-kzh-20smd-p56574.html?&trstct=pol_3)|
@@ -73,7 +74,11 @@ The gerber design files are located in the 'production_files'-folder. If you don
 | 500k trim pots | 2 | [reichelt](https://www.reichelt.de/einstellpotentiometer-liegend-500-kohm-9-mm-acp-9-l-500k-p110255.html)|
 | 10µF caps | 2 | [reichelt](https://www.reichelt.de/elko-radial-10-uf-50-v-105-c-low-esr-fr-a-10u-50-p200268.html)| 
 | LEDs | 2 | [reichelt](https://www.reichelt.de/led-5-mm-bedrahtet-rot-4-5-mcd-60-led-5mm-rt-p10233.html?&trstct=pos_0) |
-| NPN Transistor EBC-pinout | 2 | https://www.reichelt.de/bipolartransistor-npn-300v-0-5a-0-625w-to-92-mpsa-42-p13112.html |
+| NPN Transistor EBC-pinout | 2 |[reichelt](https://www.reichelt.de/bipolartransistor-npn-300v-0-5a-0-625w-to-92-mpsa-42-p13112.html) |
 
 The selected Transistor works, but i am not shure, whether it is the best fit.
 
+For the SMT-version you need different packages:
+1. Transistors in SOT-23
+2. Resisros in 1206
+3. LEDs and Caps in 0805
