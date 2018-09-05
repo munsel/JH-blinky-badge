@@ -4,7 +4,7 @@ This is the first verison of a giveaway badge for jugend hackt.
 It contains a simple oscillator circuit made up of basic electrical components.
 
 <p align=center>
-![circuit](img/circuit.svg)
+<img src="img/circuit.svg"></img>
 </p>
 
 The circuit is called an astable multivibrator and one LED-eye is the inverted output of the other eye.
