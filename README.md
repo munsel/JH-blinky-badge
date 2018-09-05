@@ -74,7 +74,8 @@ These are the parts used for the THT assembly.
 | 500k trim pots | 2 | [reichelt](https://www.reichelt.de/einstellpotentiometer-liegend-500-kohm-9-mm-acp-9-l-500k-p110255.html)|
 | 10µF caps | 2 | [reichelt](https://www.reichelt.de/elko-radial-10-uf-50-v-105-c-low-esr-fr-a-10u-50-p200268.html)| 
 | LEDs | 2 | [reichelt](https://www.reichelt.de/led-5-mm-bedrahtet-rot-4-5-mcd-60-led-5mm-rt-p10233.html?&trstct=pos_0) |
-| NPN Transistor EBC-pinout | 2 |[reichelt](https://www.reichelt.de/bipolartransistor-npn-300v-0-5a-0-625w-to-92-mpsa-42-p13112.html) |
+| NPN Transistor EBC-pinout | 2 | [reichelt](https://www.reichelt.de/bipolartransistor-npn-300v-0-5a-0-625w-to-92-mpsa-42-p13112.html) |
+
 
 The selected Transistor works, but i am not shure, whether it is the best fit.
 
